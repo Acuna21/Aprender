@@ -1,4 +1,4 @@
-#Ejercico 1
+#Ejercico 1: Escribir la siguiente expresión en forma de expresión algoritmica. 
 a=int(input("Ingrese su valor: "))
 b=int(input("Ingrese su valor: "))
 c=int(input("Ingrese su valor: "))
